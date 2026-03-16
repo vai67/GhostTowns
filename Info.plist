@@ -1,0 +1,4 @@
+{
+	CFBundleIdentifier = "";
+	"NSLocationWhenInUseUsageDescription" = "GhostTowns uses your location to identify ancestral territory. No data is stored.";
+}
